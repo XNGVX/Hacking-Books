@@ -1,9 +1,5 @@
 # 📚 Hacking-Books
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-M_BgBang-red?logo=youtube)](https://www.youtube.com/@M_BgBang)
-[![Website](https://img.shields.io/badge/Website-MBGSC-blue?logo=netlify)](https://mbgsc.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-XNGVX-black?logo=github)](https://github.com/XNGVX)
-
 A curated collection of **70+ educational PDF books** focused on **cybersecurity, hacking, penetration testing, networking, and programming**.
 
 > **Note:** Total repository content is ~600 MB. Some individual files may be large — download responsibly.
